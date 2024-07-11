@@ -1,0 +1,10 @@
+file:///home/antsin/C%2B%2B/first.cpp {"mtime":1720368937919,"ctime":1720368937919,"size":99,"etag":"3cl6nmqrn36","orphaned":false,"typeId":""}
+#include <iostream>
+using namespace std;
+int main()
+{
+ cout<<"Hello World"<<endl ;
+
+  return 0;
+
+}

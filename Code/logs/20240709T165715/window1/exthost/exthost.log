@@ -1,0 +1,10 @@
+2024-07-09 16:57:18.908 [info] Extension host with pid 3351 started
+2024-07-09 16:57:18.908 [info] Skipping acquiring lock for /home/antsin/.config/Code/User/workspaceStorage/2858bcde99042dede22468a1ecb9f624.
+2024-07-09 16:57:19.027 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-09 16:57:19.107 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-09 16:57:19.133 [info] Eager extensions activated
+2024-07-09 16:57:19.177 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-09 16:57:19.180 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-09 16:57:22.281 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-09 17:14:50.764 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-09 17:14:50.780 [info] Extension host with pid 3351 exiting with code 0
